@@ -1,1 +1,1 @@
-Don't worry about this repo. This is used for test purposes only.
+This repo is nothing. Don't trip chicken strip.
