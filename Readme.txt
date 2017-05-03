@@ -1,1 +1,1 @@
-This repo is nothing. Don't trip chicken strip.
+This repo is just up for learning purposes.
