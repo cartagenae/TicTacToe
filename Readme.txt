@@ -1,1 +1,5 @@
-This repo is just up for learning purposes.
+Welcome to my repository. Feel free to browse around.
+
+Thanks for visiting,
+
+Eric Cartagena
