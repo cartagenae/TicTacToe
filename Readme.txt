@@ -1,3 +1,6 @@
+TicTacToe-CPP
+-------------
+
 This is a simple tic tac toe app coded in C++ from scratch as my finals for my introductory C++ class in college.
 
 The computer plays against you by picking an open spot randomly, without knowing whether it not it should block you from winning the game.
