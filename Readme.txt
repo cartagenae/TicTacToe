@@ -27,6 +27,15 @@ g++ tictactoe.cpp -o tictactoe
 
 ----------------------------------------------------------------------------------------------------------------------
 
+** NOTE: You can also change the dimensions of the grid by adjusting the SIZE variable by #define. It is set at 3 by default but you can set it up 12 if you would like
+
+e.g.
+tictactoe.cpp
+...
+#define LETTER 0
+#define NUMBER 1
+#define SIZE 3    <-- Change and then recompile your program with g++
+...
 
 Thanks for visiting,
 
