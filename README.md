@@ -3,7 +3,7 @@ TicTacToe-CPP
 
 This is a simple tic tac toe app coded in C++ from scratch as my finals for my introductory C++ class in college.
 
-The computer plays against you by picking an open spot randomly, without knowing whether it not it should block you from winning the game.
+The computer plays against you by picking an open spot randomly, without knowing whether or not it should block you from winning the game.
 
 In other words, there is no (un)supervised learning enforced on this script. The machine just chooses randomly if a spot is open.
 
