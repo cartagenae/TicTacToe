@@ -39,6 +39,7 @@ g++ tictactoe.cpp -o tictactoe
 e.g.
 tictactoe.cpp
 ...
+
 #define LETTER 0
 
 #define NUMBER 1
