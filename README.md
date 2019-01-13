@@ -7,7 +7,7 @@ The computer plays against you by picking an open spot randomly, without knowing
 
 In other words, there is no (un)supervised learning enforced on this script. The machine just chooses randomly if a spot is open.
 
-Feel free to browse around it if you would like and maybe copy the source code to tamper with it as you may...
+Feel free to browse around it if you would like and copy the source code to tamper with it as you may...
 
 ----------------------------------------------------------------------------------------------------------------------
 
