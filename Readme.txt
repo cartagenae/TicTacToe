@@ -19,7 +19,7 @@ How to run it
 • Clone the Repository
 git clone https://github.com/cartagenae/TicTacToe-CPP
 
-• Log on to your directory
+• Navigate to your tic tac toe directory
 cd TicTacToe-CPP
 
 • Compile the program
