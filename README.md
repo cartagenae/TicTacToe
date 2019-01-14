@@ -36,9 +36,9 @@ e.g.
 tictactoe.cpp
 ...
 
-###### #define LETTER 0
-###### #define NUMBER 1
-###### #define SIZE 3    <-- Change and then recompile your program with g++
+##### `#define LETTER 0`
+##### `#define NUMBER 1`
+##### `#define SIZE 3`    <-- Change and then recompile your program with g++
 ...
 
 Thanks for visiting,
