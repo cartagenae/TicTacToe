@@ -30,7 +30,7 @@ How to run it
 
 ----------------------------------------------------------------------------------------------------------------------
 
-> NOTE: You can also change the dimensions of the grid by adjusting the SIZE variable by #define. It is set at 3 by default but you can set it up 12 if you would like
+> NOTE: You can also change the dimensions of the grid by adjusting the SIZE variable by #define. It is set at 3 by default but you can set it up to 12 if you would like to play on a 12 x 12 grid
 
 e.g.
 tictactoe.cpp
