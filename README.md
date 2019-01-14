@@ -1,5 +1,5 @@
-TicTacToe-CPP
--------------
+TicTacToe
+---------
 
 This is a simple tic tac toe app coded in C++ from scratch as my finals for my introductory C++ class in college.
 
@@ -17,10 +17,10 @@ How to run it
 • Open your terminal
 
 • Clone the Repository
-###### `git clone https://github.com/cartagenae/TicTacToe-CPP`
+###### `git clone https://github.com/cartagenae/TicTacToe`
 
 • Navigate to your tic tac toe directory
-###### `cd TicTacToe-CPP`
+###### `cd TicTacToe`
 
 • Compile the program
 ###### `g++ tictactoe.cpp -o tictactoe`
