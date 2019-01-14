@@ -17,20 +17,16 @@ How to run it
 • Open your terminal
 
 • Clone the Repository
-
-git clone https://github.com/cartagenae/TicTacToe-CPP
+###### `git clone https://github.com/cartagenae/TicTacToe-CPP`
 
 • Navigate to your tic tac toe directory
-
-cd TicTacToe-CPP
+###### `cd TicTacToe-CPP`
 
 • Compile the program
-
-g++ tictactoe.cpp -o tictactoe
+###### `g++ tictactoe.cpp -o tictactoe`
 
 • Run it
-
-./tictactoe
+###### `./tictactoe`
 
 ----------------------------------------------------------------------------------------------------------------------
 
